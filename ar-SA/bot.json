@@ -37,6 +37,6 @@
     "intro_disallow_discord_links": ":x: لا يمكنك إرسال روابط ديسكورد في النموذج.",
     "intro_disallow_links": ":x: لا يمكنك إرسال الروابط في النموذج.",
     "intro_thank_you": "🤗 شكرا لك على التعريف بنفسك معنا.",
-    "button_role_removed": "Removed role {0}.",
-    "button_role_added": "Added role {0}."
+    "button_role_removed": "تم إزالة رتبة {0}.",
+    "button_role_added": "تم اضافة رتبة {0}."
 }
