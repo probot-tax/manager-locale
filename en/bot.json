@@ -38,5 +38,6 @@
     "intro_disallow_links": ":x: You can't send links in form.",
     "intro_thank_you": "🤗 Thank you for introduction yourself with us.",
     "button_role_removed": "Removed role {0}.",
-    "button_role_added": "Added role {0}."
+    "button_role_added": "Added role {0}.",
+    "already_submited_modal": ":x: You already submited a introduction before"
 }
