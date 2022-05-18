@@ -39,5 +39,5 @@
     "intro_thank_you": "🤗 Thank you for introduction yourself with us.",
     "button_role_removed": "Removed role {0}.",
     "button_role_added": "Added role {0}.",
-    "already_submited_modal": ":x: You already submited a introduction before"
+    "already_submited_modal": ":x: You already submited a introduction before, You need to wait 24 hours to submit again."
 }
