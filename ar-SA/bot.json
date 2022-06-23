@@ -39,5 +39,7 @@
     "intro_thank_you": "🤗 شكرا لك على التعريف بنفسك معنا.",
     "button_role_removed": "تم إزالة رتبة {0}.",
     "button_role_added": "تم اضافة رتبة {0}.",
-    "already_submited_modal": ":x: قمت بالفعل بتقديم مقدمة من قبل، تحتاج إلى الانتظار 24 ساعة للإرسال مرة أخرى."
+    "already_submited_modal": ":x: قمت بالفعل بتقديم مقدمة من قبل، تحتاج إلى الانتظار 24 ساعة للإرسال مرة أخرى.",
+    "giveaway_delete_confirm": "**⚠ Are you sure you want to delete giveaway with id `{0}`\n\nNote: giveaway data can't be restored.**",
+    "time_ended": "TIME ENDED"
 }
