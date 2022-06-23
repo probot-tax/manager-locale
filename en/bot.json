@@ -36,5 +36,7 @@
     "intro_invalid_age": ":x: Your age must **not** includes any latters, resend the form again!",
     "intro_disallow_discord_links": ":x: You can't send discord links in form.",
     "intro_disallow_links": ":x: You can't send links in form.",
-    "intro_thank_you": "🤗 Thank you for introduction yourself with us."
+    "intro_thank_you": "🤗 Thank you for introduction yourself with us.",
+    "giveaway_delete_confirm": "**⚠ Are you sure you want to delete giveaway with id `{0}`\n\nNote: giveaway data can't be restored.**",
+    "time_ended": "TIME ENDED"
 }
