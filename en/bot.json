@@ -15,7 +15,7 @@
     "giveaway_paused": "<a:CH_Giveaway:703849482806099968> Giveaway Paused!",
     "giveaway_not_ended": ":x: The giveaway is not ended yet.",
     "giveaway_rerolled": "<a:CH_Giveaway:703849482806099968> Giveaway rerolled!",
-    "giveaway_start": "<a:CH_Giveaway:703849482806099968> **Giveaway Started in **{0}**",
+    "giveaway_start": "<a:CH_Giveaway:703849482806099968> **Giveaway Started in {0}**",
     "giveaway_url": "Giveaway URL",
     "giveaway_not_paused": ":x: This giveaway is not paused.",
     "giveaway_unpaused": "<a:CH_Giveaway:703849482806099968> Giveaway Unpaused!",
@@ -37,6 +37,9 @@
     "intro_disallow_discord_links": ":x: You can't send discord links in form.",
     "intro_disallow_links": ":x: You can't send links in form.",
     "intro_thank_you": "🤗 Thank you for introduction yourself with us.",
+    "button_role_removed": "Removed role {0}.",
+    "button_role_added": "Added role {0}.",
+    "already_submited_modal": ":x: You already submited a introduction before, You need to wait 24 hours to submit again.",
     "giveaway_delete_confirm": "**⚠ Are you sure you want to delete giveaway with id `{0}`\n\nNote: giveaway data can't be restored.**",
     "time_ended": "TIME ENDED"
 }
