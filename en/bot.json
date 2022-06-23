@@ -41,7 +41,5 @@
     "button_role_added": "Added role {0}.",
     "already_submited_modal": ":x: You already submited a introduction before, You need to wait 24 hours to submit again.",
     "giveaway_delete_confirm": "**⚠ Are you sure you want to delete giveaway with id `{0}`\n\nNote: giveaway data can't be restored.**",
-    "time_ended": "TIME ENDED",
-    "confirm": "Confirm",
-    "cancel": "Cancel"
+    "time_ended": "TIME ENDED"
 }
