@@ -40,5 +40,7 @@
     "giveaway_delete_confirm": "**⚠ Are you sure you want to delete giveaway with id `{0}`\n\nNote: giveaway data can't be restored.**",
     "time_ended": "TIME ENDED",
     "confirm": "Confirm",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "subscription_ended_contact": "Dear Customer,\n\nYour subscription for role **{0}** (`{1}`) has been ended\n\nYou can renew it by contacting us.",
+    "subscription_started_contact": "🥳 Thanks for the subscription, You've got **{0}** role! 🥳\n\nSubscription ends **{1} ({2})**"
 }
