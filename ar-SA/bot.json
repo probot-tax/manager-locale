@@ -41,6 +41,6 @@
     "time_ended": "انتهت المدة",
     "confirm": "تأكيد",
     "cancel": "إلغاء",
-    "subscription_ended_contact": "Dear Customer,\n\nYour subscription for role **{0}** (`{1}`) has been ended\n\nYou can renew it by contacting us.",
-    "subscription_started_contact": "🥳 Thanks for the subscription, You've got **{0}** role! 🥳\n\nSubscription ends **{1} ({2})**"
+    "subscription_ended_contact": "عزيزي العميل،\n\nتم انهاء اشتراكك في رتبة **{0}** (`{1}`)\n\nيمكنك تجديدها عن طريق تواصل معنا.",
+    "subscription_started_contact": "🥳 شكرا على الاشتراك، لقد حصلت على رتبة **{0}**! 🥳\n\nينتهي الاشتراك **{1} ({2})**"
 }
