@@ -41,6 +41,6 @@
     "time_ended": "TIME ENDED",
     "confirm": "Confirm",
     "cancel": "Cancel",
-    "subscription_ended_contact": "Dear Customer,\n\nYour subscription for role **{0}** (`{1}`) has been ended\n\nYou can renew it by contacting us.",
+    "subscription_ended_contact": "Dear Customer,\n\nYour subscription for role **{0}** (`{1}`) has been ended\n\nIf you wish to renew your subscription send this number to staff `{2}`.",
     "subscription_started_contact": "🥳 Thanks for the subscription, You've got **{0}** role! 🥳\n\nSubscription ends **{1} ({2})**"
 }
