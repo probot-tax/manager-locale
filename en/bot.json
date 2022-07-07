@@ -1,5 +1,5 @@
 {
-    "ping_reply": "**Time:** {0} ms\n**API Ping:** {1} ms\n**Uptime since:** {2}",
+    "ping_reply": "**Time:** {0} ms\n**API Ping:** {1} ms\n**Uptime since:** {2}\n**Memory Usage:** {3}",
     "setlang_success": "✅ Language has been changed successfully to **{0}**",
     "giveaway_not_found": "Unable to find giveaway `{0}`",
     "giveaway_deleted": "✅ Successfully deleted giveaway with id `{0}`",
